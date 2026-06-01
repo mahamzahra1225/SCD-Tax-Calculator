@@ -21,6 +21,20 @@ This is a Java Swing-based Desktop Application designed to calculate tax amounts
 5. Run the JUnit test class to verify the calculations.
 
 
+<img width="734" height="620" alt="image" src="https://github.com/user-attachments/assets/22865f6b-4f1d-4581-8776-d1457cce46a4" />
+
+<img width="722" height="665" alt="image" src="https://github.com/user-attachments/assets/af58eb46-acfa-4520-a27a-c502a0638a0b" />
+
+<img width="728" height="662" alt="image" src="https://github.com/user-attachments/assets/82eb3fb7-cb67-42e9-86f3-9318f62151ce" />
+
+<img width="1171" height="659" alt="image" src="https://github.com/user-attachments/assets/4077a04a-19c3-4c74-b795-c171371b8d8e" />
+
+<img width="728" height="663" alt="image" src="https://github.com/user-attachments/assets/90a6f864-333a-4000-a9da-f2a97ae36b5d" />
+
+<img width="723" height="661" alt="image" src="https://github.com/user-attachments/assets/07f5e2c4-843a-4c59-9250-7c27e3598c81" />
+
+
+
 
 
 
